@@ -8,7 +8,7 @@ license = "MIT"
 readme = "README.md"
 repository = "https://github.com/Firespiko/weather-forecast-app"
 keywords = ["weather", "forecast", "cli"]
-categories = ["command-line-utilities", "data-access"]
+categories = ["command-line-utilities", "database"]
 
 [dependencies]
 reqwest = { version = "0.11", features = ["json"] }
