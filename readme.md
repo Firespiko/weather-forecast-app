@@ -74,7 +74,7 @@ This project uses `dotenv`, `reqwest`, `forecast`, `dialoguer`, and `crossterm`.
 
 ## Screenshots 📸
 
-## ![Weather App Screenshot](assets/screenshot.png)
+## ![Weather App Screenshot](https://github.com/Firespiko/weather-forecast-app/blob/main/assets/screenshot.jpeg)
 
 ## Contributions 🤝
 
