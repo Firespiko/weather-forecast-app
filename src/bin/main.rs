@@ -1,6 +1,6 @@
 use dotenv::dotenv;
 use reqwest;
-use forecast::WeatherResponse;
+use real_time_global_weather_tracker::WeatherResponse;
 use std::{env, io};
 use dialoguer::{theme::ColorfulTheme, Select};
 use crossterm::style::Stylize;

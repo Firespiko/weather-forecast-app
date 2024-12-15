@@ -1,5 +1,5 @@
 [package]
-name = "forecast"
+name = "real-time-global-weather-tracker"
 version = "0.1.0"
 authors = ["K.S.Adithya <adikarks@gmail.com>"]
 edition = "2021"
