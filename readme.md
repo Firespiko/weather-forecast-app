@@ -74,7 +74,7 @@ This project uses `dotenv`, `reqwest`, `forecast`, `dialoguer`, and `crossterm`.
 
 ## Screenshots 📸
 
----
+## ![Weather App Screenshot](assets/screenshot.png)
 
 ## Contributions 🤝
 
