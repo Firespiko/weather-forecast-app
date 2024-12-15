@@ -21,5 +21,5 @@ tokio = { version = "1.0", features = ["full"] }
 dialoguer = "0.10"
 
 [[bin]]
-name = "forecast"
+name = "weather_forecaster_ksshini"
 path = "src/bin/main.rs"
